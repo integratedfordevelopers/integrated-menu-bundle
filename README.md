@@ -17,4 +17,4 @@ The installation instructions can be found in the documentation.
 This bundle is under the MIT license. See the complete license in the bundle `LICENSE`
 
 ## About ##
-The IntegratedMenuBundle is parter of the [Integrated project](http://www.integratedfordevelopers.com).
+The IntegratedMenuBundle is parterer of the [Integrated project](http://www.integratedfordevelopers.com).
